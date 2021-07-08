@@ -1,6 +1,6 @@
 # Projeto Android: Github Repo
 
-Lista os repositórios de projetos no Github que utilizam a linguagem de programação Kotlin e que ordenados pela quantidade de estrelas. Informações exibidas de cada repositório:
+Lista os repositórios de projetos do Github que utilizam a linguagem de programação Kotlin e que são ordenados pela quantidade de estrelas. Informações exibidas de cada repositório:
 - Foto do Autor
 - Nome do autor
 - Nome do repo 
