@@ -16,5 +16,4 @@ Lista os repositórios de projetos no Github que utilizam a linguagem de program
 - [ ] Testes de UI usando Espresso  
 - [ ] Scroll infinito  
 - [ ] Testes unitários
-
-
+<img src="https://user-images.githubusercontent.com/5853658/124985563-ec179880-e010-11eb-9593-bbadb7a3b5e8.gif" width="250" height="500"/>
