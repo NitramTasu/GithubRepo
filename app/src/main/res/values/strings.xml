@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubRepo</string>
+    <string name="owner_label">Owner: %s</string>
+    <string name="forks_label">Forks: %s</string>
+    <string name="starts_label">Stars: %s</string>
+    <string name="repo_name_label">Repository: %s</string>
+</resources>
